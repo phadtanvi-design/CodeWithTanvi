@@ -1,3 +1,3 @@
 # CodeWithTanvi
-This is my first Github repository
-author - tanvi phad
+This is my first Github repository.
+Author - tanvi phad
